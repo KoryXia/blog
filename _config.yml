@@ -7,7 +7,7 @@ title: 我的个人博客
 subtitle:
 description: 还没想好描述
 keywords: 生活，编程，成长
-author: 夏使迪
+author: X
 language: zh-CH
 timezone: 'Europe/Paris'
 
@@ -44,14 +44,15 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
+#syntax_highlighter: highlight.js
 highlight:
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
-  hljs: true
+  hljs: false
 prismjs:
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
