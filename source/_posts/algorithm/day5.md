@@ -2,6 +2,8 @@
 title: Day 5
 tags: Algorithm
 category: Algorithm
+cover: /img/algorithm_cover.png
+description: Day 5 Hash 1
 ---
 
 # Day 5

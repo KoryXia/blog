@@ -1,7 +1,9 @@
 ---
-title:  Day 8
+title: Day 8
 tags: Algorithm
 category: Algorithm
+cover: /img/algorithm_cover.png
+description: Day 8 String 2
 ---
 
 # Day 8

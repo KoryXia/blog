@@ -2,6 +2,8 @@
 title: Day 1
 tags: Algorithm
 category: Algorithm
+cover: /img/algorithm_cover.png
+description: Day 1 Array 1
 ---
 
 # Day 1

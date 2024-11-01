@@ -2,7 +2,10 @@
 title: Day 7
 tags: Algorithm
 category: Algorithm
+cover: /img/algorithm_cover.png
+description: Day 7 String 1
 ---
+
 
 # Day 7
 
