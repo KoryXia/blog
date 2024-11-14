@@ -1,6 +1,6 @@
 ---
 title: Day 3
-tags: Algorithm
+tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 3 LinkedList 1

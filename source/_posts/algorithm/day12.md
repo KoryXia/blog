@@ -1,6 +1,6 @@
 ---
 title: Day 12
-tags: Algorithm
+tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 12 Binary tree
