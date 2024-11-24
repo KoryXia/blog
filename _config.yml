@@ -107,5 +107,4 @@ deploy:
   host: xsd666.top
   user: root
   forceUpload: true
-  remotePath: /www/wwwroot/xxx.com
-  privateKey: /Users/xia/Documents/keys/myKey.pem
+  privateKey: myKey.pem
