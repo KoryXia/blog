@@ -103,8 +103,3 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: sftp
-  host: xsd666.top
-  user: root
-  forceUpload: true
-  privateKey: myKey.pem
