@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 4 LinkedList 2
+data: 2024-09-23
 ---
 
 # Day 4

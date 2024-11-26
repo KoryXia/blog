@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 5 Hash 1
+data: 2024-09-25
 ---
 
 # Day 5

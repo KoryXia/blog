@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 6 Hash 2
+data: 2024-09-29
 ---
 
 # Day 6

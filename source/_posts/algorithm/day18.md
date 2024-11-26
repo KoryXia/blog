@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 18 Binary tree
+data: 2024-11-24
 ---
 
 # Day 18

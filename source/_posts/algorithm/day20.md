@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 20 Backtracking
+data: 2024-11-26
 ---
 
 # Day 20

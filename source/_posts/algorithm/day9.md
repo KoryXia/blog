@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 9 Stack & Queue section 1
+data: 2024-10-11
 ---
 
 # Day 9

@@ -4,6 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 1 Array 1
+data: 2024-09-18
 ---
 
 # Day 1
