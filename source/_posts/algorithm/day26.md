@@ -4,7 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 26 Greedy
-data: 2024-12-10
+data: 2024-12-11
 ---
 
 # Day 26
