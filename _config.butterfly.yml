@@ -24,7 +24,6 @@ code_blocks:
   # Code block height limit (unit: px)
   height_limit: 350
   word_wrap: false
-
   # Toolbar
   copy: true
   language: true
