@@ -1,4 +1,14 @@
-## GMP Model Notes Summary
+---
+title: GMP
+tags: [Learn, Go]
+category: [Learn, Go]
+cover: /img/Go_Logo.png
+description: GMP
+data: 2025-02-11
+---
+# GMP Model Notes Summary
+
+## English
 
 -----
 
@@ -82,7 +92,7 @@
 
 -----
 
-## GMP 模型笔记总结
+## 中文
 
 ------
 
