@@ -3,7 +3,7 @@ title: Day 36
 tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
-description: Day 3 Dynamic programming
+description: Day 36 Dynamic programming
 data: 2025-04-02
 ---
 
