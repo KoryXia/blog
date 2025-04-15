@@ -3,7 +3,7 @@ title: Day 44
 tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
-description: Day 45 Monotonic stack
+description: Day 44 Monotonic stack
 data: 2025-04-15
 ---
 
