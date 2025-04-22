@@ -4,7 +4,7 @@ tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
 description: Day 46 Array
-data: 2025-04-167
+data: 2025-04-17
 ---
 
 # Day 46
