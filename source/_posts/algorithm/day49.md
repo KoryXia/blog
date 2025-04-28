@@ -3,7 +3,7 @@ title: Day 49
 tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
-description: Day 49 Linkedlist
+description: Day 49 HashMap
 data: 2025-04-26
 ---
 
