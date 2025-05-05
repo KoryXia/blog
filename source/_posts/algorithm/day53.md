@@ -3,7 +3,7 @@ title: Day 53
 tags: [Algorithm]
 category: Algorithm
 cover: /img/algorithm_cover.png
-description: Day 52 String
+description: Day 53 String
 data: 2025-05-03
 ---
 
